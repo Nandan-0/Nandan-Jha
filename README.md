@@ -27,6 +27,7 @@ Python | C | HTML | CSS | Git | GitHub
 🎯 My Goal :-
 
 To become a skilled software developer by consistently learning, building projects, and contributing to the tech community.
+
 ✨ Learning today, building tomorrow!
 
 
