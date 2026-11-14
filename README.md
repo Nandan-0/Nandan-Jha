@@ -32,7 +32,7 @@ To become a skilled software developer by consistently learning, building projec
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saksham_340) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nandan Jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandanjha008@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saksham_340) [![LinkedIn] https://www.linkedin.com/in/nandan-jha-20b124427?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 <!-- Snake Game Repo View -->
 
