@@ -33,7 +33,6 @@ To become a skilled software developer by consistently learning, building projec
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saksham_340) 
-[![Linkdin](https://img.shields.io/badge/Linkdin-%23E4405F.svg?logo=Linkdin& logocolor=Blue)](https://www.linkedin.com/in/nandan-jha
 <!-- Snake Game Repo View -->
 
 <div align="center">
